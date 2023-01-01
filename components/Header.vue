@@ -11,7 +11,7 @@
       >
         <div>
           <nuxt-link to="/" class="flex">
-            <img class="h-5" src="/img/logo.svg" alt="Workflow" />
+            <img class="h-5" src="/img/https://www.facebook.com/groups/542042557616437/" alt="Workflow" />
           </nuxt-link>
         </div>
         <div class="-my-2 -mr-2 md:hidden">
